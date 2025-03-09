@@ -1,0 +1,26 @@
+body {
+    background-color: orangered !important;
+    color: yellowgreen;
+}
+.navbar {
+    background-color: gold;
+}
+.footer{
+    background-color: blue;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
+.hero {
+    text-align: center;
+    padding: 80px 20px;
+}
+.hero h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+.features .card{
+    background-color: yellowgreen;
+    color: aqua;
+    border: none;
+}
