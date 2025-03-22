@@ -123,3 +123,6 @@ body {
 .custom-card .btn:hover {
     background-color: cadetblue;
 }
+.col-md-4{
+    padding: 20px;
+}
